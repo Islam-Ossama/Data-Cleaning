@@ -42,7 +42,7 @@ This project focuses on cleaning and analyzing layoffs data using SQL to ensure 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Islam-Ossama/Data-Cleaning.git
+   git clone https://github.com/Islam-Ossama/Layoff-analysis.git
    ```
 
 2. **Set Up the Database**:
